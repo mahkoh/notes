@@ -1,3 +1,6 @@
 = Test
 
-VPN Isolation with Namespaces:: abc def
+<<vpn-isolation>>:: abc def
+
+[[vpn-isolation]]
+== VPN Isolation with Namespaces
